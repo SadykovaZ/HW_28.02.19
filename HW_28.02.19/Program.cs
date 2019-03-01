@@ -18,8 +18,8 @@ namespace HW_28._02._19
             {
                 cw.AddWord(i);
             }
-            cw.PrintStats();
-            Console.ReadLine();
+            cw.Print();
+            
         }
     }
 }

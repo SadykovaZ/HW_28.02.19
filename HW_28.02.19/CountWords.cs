@@ -27,7 +27,7 @@ namespace HW_28._02._19
             }
         }
 
-        public void PrintStats()
+        public void Print()
         {
             foreach (var i in dict)
             {
